@@ -1,5 +1,5 @@
 "use client"
-import User from "@/pages/User";
+import User from "@/Apppages/User";
 import { Provider } from 'react-redux';
 import store from '@/store'
 

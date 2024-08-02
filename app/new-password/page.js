@@ -1,4 +1,4 @@
-import ForgotPassword from "@/pages/ForgotPassword";
+import ForgotPassword from "@/Apppages/ForgotPassword";
 
 
 export default function NewPassword() {

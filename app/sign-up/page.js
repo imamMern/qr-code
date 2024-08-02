@@ -1,4 +1,4 @@
-import SignUp from "@/pages/SignUp";
+import SignUp from "@/Apppages/SignUp";
 
 
 export default function SignUpPage() {

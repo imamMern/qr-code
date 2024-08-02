@@ -1,6 +1,6 @@
 
 
-import Demo from "@/pages/Main";
+import Demo from "@/Apppages/Main";
 
 import './globals.css'
 export default function Home() {
